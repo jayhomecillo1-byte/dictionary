@@ -21,7 +21,7 @@
       ],
       "senses": [
         {
-          "definition": "\"Hello!\": a greeting said when meeting someone or acknowledging someone's arrival or presence.",
+          "definition": "A greeting said when meeting someone or acknowledging someone's arrival or presence.",
           "tags": ["greeting"],
           "examples": [
             "Hello, everyone."
@@ -37,13 +37,6 @@
           "tags": ["telephony"],
           "examples": [
             "Hello? Yes, speaking."
-          ]
-        },
-        {
-          "definition": "A call for response if it is not clear if anyone is present or listening.",
-          "tags": [],
-          "examples": [
-            "Hello? Is anyone there?"
           ]
         }
       ],
@@ -69,31 +62,6 @@
           "definition": "An utterance of \"hello\"; a greeting.",
           "examples": [
             "She gave me a warm hello when I walked in."
-          ]
-        }
-      ],
-      "source": {
-        "url": "https://en.wiktionary.org/wiki/hello"
-      }
-    },
-    {
-      "language": {
-        "code": "en",
-        "name": "English"
-      },
-      "partOfSpeech": "verb",
-      "pronunciations": [
-        {
-          "type": "IPA",
-          "text": "/həˈloʊ/",
-          "tags": ["General American"]
-        }
-      ],
-      "senses": [
-        {
-          "definition": "To greet with \"hello\".",
-          "examples": [
-            "He helloed them as they passed."
           ]
         }
       ],
